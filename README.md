@@ -1,2 +1,2 @@
-# mburq.github.io
+# mbiggs.github.io
 My personal website
